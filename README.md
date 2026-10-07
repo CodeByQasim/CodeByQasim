@@ -1,5 +1,9 @@
 #  Hi 👋, I'm Ghulam Qasim
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=CodeByQasim&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+</p>
+
 ###  Artificial Intelligence Student | Machine Learning | Deep Learning | Python Developer
 
 I'm an **Artificial Intelligence student** passionate about building practical AI/ML solutions, exploring emerging technologies, and turning real-world problems into intelligent software.
